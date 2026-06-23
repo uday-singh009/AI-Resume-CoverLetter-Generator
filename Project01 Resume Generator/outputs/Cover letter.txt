@@ -1,0 +1,58 @@
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the SOC Analyst L-2 position.
+
+My background includes cybersecurity, AI projects,
+SOC operations and Python development.
+
+Key Skills:
+Python
+Cybersecurity
+Security Operations Center (SOC)
+Threat Detection
+Incident Response
+Splunk
+Wazuh
+Microsoft Sentinel
+SIEM
+MITRE ATT&CK
+Network Security
+Linux
+Windows Security
+Generative AI
+Prompt Engineering
+AI Agents
+OpenCV
+Git & GitHub
+
+Experience:
+Summer Internship at LinuxWorld Informatics Pvt. Ltd.
+
+Project: Mastering GenAI - Prompt Engineering to AI Agents
+
+Worked on:
+- Prompt Engineering
+- AI Agents
+- Python Automation
+- Streamlit Applications
+- AI-powered Projects
+- OpenCV Computer Vision Projects
+
+Secretary - IEEE SB MIET
+
+Treasurer - IAS SBC MIET
+
+Microsoft Certified Security Operations Analyst Associate
+
+Microsoft Certified Azure AI Engineer Associate
+
+Junior Web Application Penetration Tester
+
+I believe my technical expertise and leadership
+experience make me a strong candidate.
+
+Thank you for your consideration.
+
+Regards,
+Uday Veer Singh
